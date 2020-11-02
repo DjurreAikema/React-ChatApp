@@ -1,0 +1,18 @@
+Fix login hover
+stay logged in when reloading the page
+show the user images properly
+make logged in users mesages appear on the right
+auto scroll down on new msg
+make the collapse in sidebar work
+
+add functionality to the initial functions
+
+
+
+
+
+
+uses 
+BEM
+React
+Firebase
